@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!DOCTYPE HOME [
+<!ELEMENT EVENT (name, description)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT description (#PCDATA)>
+]>
+
+<Banner>
+	<c>
+		<name>Holy Week</name>
+		<description>A significant religious observance observed by Christians around the world.</description>
+	</c>
+
+	<c>
+		<name>Holy Week</name>
+		<description>It commemorates the final week of Jesus Christ's life, leading up to his crucifixion and resurrection.</description>
+	</c>
+
+	<c>
+		<name>Buling</name>
+		<description>Buring of the palm (palaspas) that is used in ash Wednesday</description>
+	</c>
+
+	<c>
+		<name>Station of the Cross</name>
+		<description>Praying in chosen houses to be a station of the cross </description>
+	</c>
+</Banner>
+
+<OurChapel>
+	<c>
+		<name>Tabigue Chapel</name>
+		<description>One of the 7 Chapels in Sacred Heart Parish Church</description>
+	</c>
+
+	<c>
+		<name>Lupac Chapel</name>
+		<description>One of the 7 Chapels in Sacred Heart Parish Church</description>
+	</c>
+
+	<c>
+		<name>Buliasnin Chapel</name>
+		<description>One of the 7 Chapels in Sacred Heart Parish Church</description>
+	</c>
+
+	<c>
+		<name>Balogo Chapel</name>
+		<description>One of the 7 Chapels in Sacred Heart Parish Church</description>
+	</c>
+
+	<c>
+		<name>Tabi Chapel</name>
+		<description>One of the 7 Chapels in Sacred Heart Parish Church</description>
+	</c>
+
+	<c>
+		<name>Pili Chapel </name>
+		<description>One of the 7 Chapels in Sacred Heart Parish Church</description>
+	</c>
+
+	<c>
+		<name>Maligaya Chapel </name>
+		<description>One of the 7 Chapels in Sacred Heart Parish Church</description>
+	</c>
+
+</OurChapel>
+
+<WhatOurParishionersSays>
+	<c>
+		<name>Jay Park </name>
+		<description>One of our users that express his feedback in our web</description>
+
+		<name>Peter Sungyeok </name>
+		<description>One of our users that express his feedback in our web</description>
+	</c>
+</WhatOurParishionersSays>
+
+<MissionandVision>
+	<c>
+		<name>Mision Statement</name>
+		<description>to show the Mission of the Church</description>
+	</c>
+
+	<c>
+		<name>Vision Statement</name>
+		<description>to show the Vision of the Church</description>
+	</c>
+</MissionandVision>
