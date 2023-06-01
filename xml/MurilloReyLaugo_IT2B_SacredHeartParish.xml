@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!DOCTYPE schedule [
+<!ELEMENT SCHEDULE (name, description, day, time)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT description (#PCDATA)>
+<!ELEMENT time (#PCDATA)>
+<!ELEMENT day (#PCDATA)>
+]>
+
+<Schedule>
+	<c>
+		<name>Lupac</name>
+		<description>Schedu</description>
+		<day>1</day>
+		<time>5 PM</time>
+		<program>Mass</program>
+	</c>
+
+	<c>
+		<name>Maligaya</name>
+		<description>It commemorates the final week of Jesus Christ's life, leading up to his crucifixion and resurrection.</description>
+		<day>2</day>
+		<time>6 PM</time>
+		<program>Mass</program>
+	</c>
+
+	<c>
+		<name>Buliasnin</name>
+		<description>Buring of the palm (palaspas) that is used in ash Wednesday</description>
+		<day>3</day>
+		<time>7 AM</time>
+		<program>Mass</program>
+	</c>
+
+	<c>
+		<name>Balogo</name>
+		<description>Praying in chosen houses to be a station of the cross </description>
+		<day>4</day>
+		<time>8 AM</time>
+		<program>Mass</program>
+	</c>
+
+	<c>
+		<name>Tabi</name>
+		<description>Praying in chosen houses to be a station of the cross </description>
+		<day>5</day>
+		<time>9 AM</time>
+		<program>Mass</program>
+	</c>
+
+	<c>
+		<name>Tabigue</name>
+		<description>Praying in chosen houses to be a station of the cross </description>
+		<day>6</day>
+		<time>10 AM</time>
+		<program>Mass</program>
+	</c>
+
+	<c>
+		<name>Pili</name>
+		<description>Praying in chosen houses to be a station of the cross </description>
+		<day>7</day>
+		<time>5 Pm</time>
+		<program>Mass</program>
+	</c>
+</Banner>
